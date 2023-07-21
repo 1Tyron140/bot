@@ -8,4 +8,4 @@ dealership.py :
 
 How it works ? You just have to boot the program and put the cursor on the game windows, let your computer alone and that's it. I will improve it later.
 
-But, to stop the script you will have to close the terminal running the script beacuase i dont how to close the program by pressing a key for instance.
+But, to stop the script you will have to close the terminal running the script because i dont how to close the program by pressing a key for instance.
