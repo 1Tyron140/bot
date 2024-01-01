@@ -1,6 +1,6 @@
 # encore en dev
 # utilise un thread pour pouvoir quitter à tout moment
-
+import random
 import keyboard
 import pyautogui
 import time
@@ -20,7 +20,8 @@ if __name__ == "__main__":
     t1 = Thread(target=quit_program)
     t1.start()
     time.sleep(2)
+    print('[+] Starting the script')
     pyautogui.click()
     while 1==1:
-        time.sleep(2)
-        print("prout")
+        time.sleep(random.uniform(2, 7))
+        pydirectinput.press("space")
