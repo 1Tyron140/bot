@@ -21,6 +21,7 @@ if __name__ == "__main__":
     t1.start()
     time.sleep(2)
     print('[+] Starting the script')
+    print('[+] press CLRL+ALT+Q to quit')
     pyautogui.click()
     while 1==1:
         time.sleep(random.uniform(2, 7))
