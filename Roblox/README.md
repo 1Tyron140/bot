@@ -10,3 +10,5 @@ Actuellement les scripts python servent seuelement à bypass le ban au bot de 20
 
 - Roblox script executor pour utiliser les scripts
 - Dex explorer pour le reverse de jeux roblox (se renseigner sur dex et roblox studio)
+	- https://devforum.roblox.com/t/what-is-the-dex-explorer/2212886/2
+	- https://github.com/loglizzy/dexV4
